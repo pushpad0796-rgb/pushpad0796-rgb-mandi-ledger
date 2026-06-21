@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const CORRECT_USER = "mandiappsrg";
+const CORRECT_USER = "mandiappsrgrrr";
 const CORRECT_PASS = "R@hul1225";
 
 function Login({ onLogin }) {
